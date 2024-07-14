@@ -1,3 +1,3 @@
 # Stock Price Checker
 
-This is the boilerplate for the Stock Price Checker project. Instructions for building your project can be found at https://freecodecamp.org/learn/information-security/information-security-projects/stock-price-checker
+This is a Full Stack Javascript Stock Price Checker app.The api used in this app is made using a dummy api created by freecodecamp for their information security course certification. 
